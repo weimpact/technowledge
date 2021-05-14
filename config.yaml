@@ -76,7 +76,7 @@ params:
         - name: twitter
           url: "https://twitter.com/growtechies"
         - name: github
-          url: "https://github.com/weimpact/tech-wiki"
+          url: "https://github.com/weimpact/technowledge"
 
     analytics:
         google:
