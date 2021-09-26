@@ -1,6 +1,6 @@
 ---
 title: "Getting started with Kafka"
-date: 2021-09-01T07:00:00+05:30
+date: 2021-08-01T07:00:00+05:30
 tags: ["language", "kickstart", "kafka", "backend"]
 showToc: true
 showOSS: true
