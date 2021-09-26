@@ -116,10 +116,6 @@ menu:
           name: tags
           url: /tags/
           weight: 20
-        - identifier: cheatsheets
-          name: Cheatsheets
-          url: /cheatsheets/
-          weight: 11
         - identifier: revoir
           name: revoir.in
           url: https://revoir.in
