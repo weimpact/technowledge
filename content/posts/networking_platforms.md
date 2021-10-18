@@ -26,5 +26,6 @@ Below are few platform which we could make use of.
 * [Reddit startup](https://www.reddit.com/r/startups/), [Discord](https://discord.com/invite/9qsrDuEeZS)
 * [The Builders Club](https://www.thebuildersclub.me/), [Discord](https://discord.com/invite/UXgeVk36Rp)
 * [Product Folks](https://www.theproductfolks.com/the-product-folks-community)
+* [Upstream](https://upstreamapp.com/)
 
 If you've been using other platforms which've helped you, please let us know or raise a PR in the [repo](https://github.com/weimpact/technowledge).
